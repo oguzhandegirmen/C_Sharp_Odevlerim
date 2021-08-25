@@ -8,3 +8,4 @@ C:\Users\Gokhan\Documents\Odevler_1\Odev34\bin\Debug\Odev34.pdb
 C:\Users\Gokhan\Documents\Odevler_1\Odev34\obj\Debug\Odev34.csproj.CoreCompileInputs.cache
 C:\Users\Gokhan\Documents\Odevler_1\Odev34\obj\Debug\Odev34.exe
 C:\Users\Gokhan\Documents\Odevler_1\Odev34\obj\Debug\Odev34.pdb
+C:\Users\Gokhan\Documents\Odevler_1\Odev34\obj\Debug\Odev34.csproj.AssemblyReference.cache

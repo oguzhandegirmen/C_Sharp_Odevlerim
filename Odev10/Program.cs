@@ -10,8 +10,8 @@ namespace Odev10
         static void Main(string[] args)
         {
 
-            int i = 4;
-            for (i = 4; i <= 1000; i++)
+            int i = 1;
+            for (i = 1; i <= 1000; i++)
             {
 
                 if ((i * i) <= 1000)
