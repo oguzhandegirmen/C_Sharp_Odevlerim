@@ -13,7 +13,7 @@ namespace Odev34
             int i;
             for (i = 30; i >= 1; i--)
             Console.WriteLine(i);
-            Console.Re();
+            Console.ReadLine();
         }
     }
 }

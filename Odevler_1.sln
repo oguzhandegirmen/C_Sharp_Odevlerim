@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev33", "Odev33\Odev33.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev34", "Odev34\Odev34.csproj", "{D22F14C1-3218-4EEF-A91D-AC4D47E646C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek35", "Ornek35\Ornek35.csproj", "{AED7DD09-63A3-4F39-BC79-EBD466AFDC99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{D22F14C1-3218-4EEF-A91D-AC4D47E646C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D22F14C1-3218-4EEF-A91D-AC4D47E646C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D22F14C1-3218-4EEF-A91D-AC4D47E646C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED7DD09-63A3-4F39-BC79-EBD466AFDC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED7DD09-63A3-4F39-BC79-EBD466AFDC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED7DD09-63A3-4F39-BC79-EBD466AFDC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED7DD09-63A3-4F39-BC79-EBD466AFDC99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
