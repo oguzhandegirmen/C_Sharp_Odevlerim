@@ -1,0 +1,6 @@
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Ornek13\bin\Debug\Ornek13.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Ornek13\bin\Debug\Ornek13.pdb
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Ornek13\obj\Debug\Ornek13.csproj.AssemblyReference.cache
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Ornek13\obj\Debug\Ornek13.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Ornek13\obj\Debug\Ornek13.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Ornek13\obj\Debug\Ornek13.pdb

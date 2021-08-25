@@ -1,0 +1,5 @@
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev9\bin\Debug\Odev9.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev9\bin\Debug\Odev9.pdb
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev9\obj\Debug\Odev9.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev9\obj\Debug\Odev9.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev9\obj\Debug\Odev9.pdb

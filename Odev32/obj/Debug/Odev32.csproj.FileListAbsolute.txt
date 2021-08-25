@@ -1,0 +1,6 @@
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev32\bin\Debug\Odev32.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev32\bin\Debug\Odev32.pdb
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev32\obj\Debug\Odev32.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev32\obj\Debug\Odev32.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev32\obj\Debug\Odev32.pdb
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev32\obj\Debug\Odev32.csproj.AssemblyReference.cache

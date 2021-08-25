@@ -1,0 +1,6 @@
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev8\bin\Debug\Odev8.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev8\bin\Debug\Odev8.pdb
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev8\obj\Debug\Odev8.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev8\obj\Debug\Odev8.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev8\obj\Debug\Odev8.pdb
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev8\obj\Debug\Odev8.csproj.AssemblyReference.cache

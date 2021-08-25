@@ -1,0 +1,6 @@
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev10\bin\Debug\Odev10.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev10\bin\Debug\Odev10.pdb
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev10\obj\Debug\Odev10.csproj.AssemblyReference.cache
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev10\obj\Debug\Odev10.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev10\obj\Debug\Odev10.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev10\obj\Debug\Odev10.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev20\bin\Debug\Odev20.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev20\bin\Debug\Odev20.pdb
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev20\obj\Debug\Odev20.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev20\obj\Debug\Odev20.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev20\obj\Debug\Odev20.pdb
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev20\obj\Debug\Odev20.csproj.AssemblyReference.cache

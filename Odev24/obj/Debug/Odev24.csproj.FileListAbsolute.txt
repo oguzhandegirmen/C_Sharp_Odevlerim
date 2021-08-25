@@ -1,0 +1,6 @@
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev24\obj\Debug\Odev24.csproj.AssemblyReference.cache
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev24\obj\Debug\Odev24.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev24\bin\Debug\Odev24.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev24\bin\Debug\Odev24.pdb
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev24\obj\Debug\Odev24.exe
+C:\Users\Gokhan\Desktop\calismalarim\Odevler_1\Odev24\obj\Debug\Odev24.pdb
